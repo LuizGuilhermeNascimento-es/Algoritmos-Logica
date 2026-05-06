@@ -231,3 +231,11 @@ while True:
     break
   else:
     print("Opção inválida.")
+  
+
+#----- Teste de Commit -----
+notas={'Luiz':9.5,
+       'Yasmin':8,
+       'Gabriela':10,
+       'Samuel':3}
+print(notas)
